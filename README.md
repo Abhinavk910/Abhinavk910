@@ -1,8 +1,8 @@
 
 - 👋 Hello, I am Abhinav (@Abhinavk910).
 - 👀 I have a keen interest in leveraging artificial intelligence to automate processes and tasks.
-- 🌱 Currently, I am dedicated to expanding my knowledge and skills in LLM models.
-- 💞️ I am actively seeking opportunities to collaborate on projects involving LLM models and dashboard development.
+- 🌱 Currently, I am dedicated to expanding my knowledge and skills in Algorithm Trading.
+- 💞️ I am actively seeking opportunities to collaborate on projects involving Algorithm Trading, LLM models and dashboard development.
 - 📫 You can reach me via email at abhinavk910@gmail.com
 
 <!---
